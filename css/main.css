@@ -3,3 +3,29 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+/* Header */
+
+header {
+    background-color: #0084FD;
+}
+
+.row {
+    display: flex;
+}
+
+.mobile-menu,
+.desktop-menu {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.col {
+    width: 50%;
+}
+
+.desktop-menu {
+    display: none;
+}
+
+/* FINE SEZIONE HEADER */
