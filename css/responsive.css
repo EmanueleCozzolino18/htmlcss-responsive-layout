@@ -15,6 +15,13 @@
         margin: 10px;
         width: calc(100% / 3 - 20px);
     }
+
+    /* BENEFITS SECTION */
+
+    #benefits .col {
+        margin: 10px;
+        width: calc(100% / 2 - 20px);
+    }
 }
 
 
@@ -43,5 +50,12 @@
     #planning .col {
         width: calc(100% / 2 - 40px);
         margin: 20px;
+    }
+
+    /* BENEFITS SECTION */
+
+    #benefits .col {
+        margin: 10px;
+        width: calc(100% / 3 - 20px);
     }
 }
