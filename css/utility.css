@@ -41,6 +41,10 @@
     background-color: white;
 }
 
+.bg-black {
+    background-color: #333333;
+}
+
 /* BOX */
 
 .direction {
