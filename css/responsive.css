@@ -22,6 +22,13 @@
         margin: 10px;
         width: calc(100% / 2 - 20px);
     }
+
+    /* ABOUT SECTION */
+
+    #about .col {
+        margin: 20px;
+        width: calc(100% / 2 - 40px);
+    }
 }
 
 
