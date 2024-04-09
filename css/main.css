@@ -26,9 +26,6 @@
 }
 
 /* JUMBO SECTION */
-.jumbo-cont {
-    width: 100%;
-}
 
 .col-spe {
     width: calc(100% / 3 * 2);
