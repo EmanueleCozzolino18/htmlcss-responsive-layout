@@ -1,13 +1,4 @@
 /* VISIBILITY */
-
-.desktop-menu {
-    display: none;
-}
-
-.only-tablet {
-    display: none;
-}
-
 .h-110 {
     height: 110px;
 }
@@ -20,6 +11,10 @@
     height: 400px;
 }
 
+.h-1200 {
+    height: 1200px;
+}
+
 .border {
     border: 2px solid black;
 }
@@ -30,16 +25,20 @@
     background-color: rgba(238, 255, 0, 0.5);
 }
 
-.bg-desktop {
-    background-color: rgba(255, 0, 0, 0.5);
-}
-
 .bg-mainblue {
     background-color: #0084FD;
 }
 
 .bg-lightblue {
     background-color: #B5DDFF;
+}
+
+.bg-lilla {
+    background-color: #9792E4;
+}
+
+.bg-white {
+    background-color: white;
 }
 
 /* BOX */
