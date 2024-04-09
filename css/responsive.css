@@ -1,14 +1,22 @@
+/* TABLET */
+@media screen and (min-width:768px) {
+    .only-tablet {
+        display: block;
+    }
+
+    .only-mobile {
+        display: none;
+    }
+}
+
+
 /* DESKTOP */
-@media screen and (min-width: 768px) {
+@media screen and (min-width:1160px) {
     .head-cont {
         width: 100%;
     }
 
-    .desktop-menu {
-        display: block;
-    }
-
-    .mobile-menu {
-        display: none;
+    .bg-transparent {
+        background-color: rgba(255, 0, 0, 0.5);
     }
 }

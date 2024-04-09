@@ -6,16 +6,16 @@
 
 /* Header */
 
-header {
-    background-color: #0084FD;
+.head-cont {
+    width: 100%;
 }
 
 .row {
     display: flex;
 }
 
-.mobile-menu,
-.desktop-menu {
+.nav-bar,
+.white-cont {
     width: 80%;
     margin: 0 auto;
 }
@@ -24,8 +24,28 @@ header {
     width: 50%;
 }
 
-.desktop-menu {
-    display: none;
+/* JUMBO SECTION */
+/*
+.col-spe {
+    width: calc(100% / 3 * 2);
 }
+
+#jumbo {
+    margin-top: 30px;
+}
+
+#jumbo,
+.col {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.tablet-jumbo,
+.col {
+    width: calc(100% / 3);
+}
+ /*
+
+
 
 /* FINE SEZIONE HEADER */
