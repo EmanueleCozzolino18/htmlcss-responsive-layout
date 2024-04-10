@@ -1,4 +1,8 @@
 /* VISIBILITY */
+.only-desktop {
+    display: none;
+}
+
 .h-110 {
     height: 110px;
 }
@@ -45,6 +49,35 @@
     background-color: #333333;
 }
 
+/* CLASSI TEXT */
+
+.main-text {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.w-txt {
+    color: white;
+}
+
+.h-menu {
+    font-size: 25px;
+}
+
+.head-list li {
+    list-style: none;
+    /* padding: 0px 30px; */
+    padding-left: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+li .h-btn {
+    color: black;
+}
+
 /* BOX */
 
 .direction {
@@ -57,4 +90,21 @@
 
 .base-box {
     border-radius: 20px;
+}
+
+.end {
+    justify-content: end;
+}
+
+.f-center {
+    align-items: center;
+}
+
+.h-btn {
+    background-color: #fff;
+    padding: 15px 15px;
+}
+
+.bradius-30 {
+    border-radius: 30px;
 }

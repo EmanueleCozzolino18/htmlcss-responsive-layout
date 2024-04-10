@@ -13,14 +13,43 @@
 
 <body>
 
-    <header>
+    <header id="header">
         <!-- SEZIONE RESPONSIVA-->
-        <div class="head-cont h-110 bg-mainblue">
+        <div class="head-cont bg-mainblue">
             <div class="nav-bar">
                 <div class="row space-btw">
-                    <div class="col border h-110 bg-transparent">
+                    <div class="col row f-center">
+                        <img src="img/logo.png" alt="logo" class="middle-textalign">
                     </div>
-                    <div class="col border h-110 bg-transparent">
+                    <!-- SEZIONE MOBILE (HAMBURGER MENU)-->
+                    <div class="col row end f-center">
+                        <div class="only-mobile">
+                            <i class="fas fa-bars w-txt h-menu middle-textalign"></i>
+                        </div>
+                        <!-- SEZIONE DESKTOP (LIST MENU)-->
+                        <div class="only-desktop row">
+                            <ul class="head-list row main-text w-text">
+                                <li>
+                                    <a href="#">Planning</a>
+                                </li>
+
+                                <li>
+                                    <a href="#">Testimonials</a>
+                                </li>
+
+                                <li>
+                                    <a href="#">Features</a>
+                                </li>
+
+                                <li>
+                                    <a href="#">About Us</a>
+                                </li>
+
+                                <li>
+                                    <a href="#" class="h-btn bradius-30">Get Started</a>
+                                </li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </div>

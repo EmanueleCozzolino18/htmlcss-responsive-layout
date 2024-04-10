@@ -21,8 +21,13 @@
     margin: 0 auto;
 }
 
+
 .col {
     width: 50%;
+}
+
+#header .col {
+    padding: 15px 0px;
 }
 
 /* JUMBO SECTION */
@@ -32,13 +37,20 @@
 }
 
 #jumbo {
-    margin-top: 30px;
+    margin-top: 50px;
+}
+
+#jumbo .col {
+    margin-bottom: 25px;
+}
+
+#jumbo .col-spe {
+    margin-bottom: 25px;
 }
 
 .col,
 .col-spe {
     width: 100%;
-    margin-bottom: 30px;
 }
 
 /* PLANNING SECTION */
