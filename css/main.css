@@ -48,6 +48,10 @@
     margin-bottom: 25px;
 }
 
+#spe .col {
+    margin-bottom: 0px;
+}
+
 .col,
 .col-spe {
     width: 100%;
@@ -59,7 +63,7 @@
 }
 
 .img-phone {
-    transform: translate(2px, 30px);
+    transform: translate(55px, 30px);
 }
 
 /* PLANNING SECTION */

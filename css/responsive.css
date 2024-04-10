@@ -12,8 +12,24 @@
         width: calc(100% / 3 - 20px);
     }
 
+    #jumbo .col-spe .col {
+        width: 100%;
+    }
+
     .img-phone {
-        transform: translate(2px, 30px);
+        transform: translate(0px, 15px);
+    }
+
+    .img-f {
+        width: 60%;
+    }
+
+    .temptext-center {
+        text-align: left;
+    }
+
+    .b-btn {
+        width: 210px;
     }
 
     /* BENEFITS SECTION */
@@ -50,6 +66,18 @@
 
     .white-cont {
         width: 1200px;
+    }
+
+    #jumbo .col-spe .col {
+        width: calc(100% / 2 - 20px)
+    }
+
+    .img-phone {
+        transform: translate(20px, 15px);
+    }
+
+    .img-f {
+        width: 90%;
     }
 
     /* PLANNING SECTION */

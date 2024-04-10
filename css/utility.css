@@ -50,8 +50,7 @@
 }
 
 .img-f {
-    width: 100%;
-    height: auto;
+    width: 80%;
 }
 
 /* CLASSI TEXT */
@@ -91,12 +90,28 @@ li .h-btn {
     color: black;
 }
 
+.temptext-center {
+    text-align: center;
+}
+
 .text-center {
     text-align: center;
 }
 
 .text-left {
     text-align: left;
+}
+
+.jumbo-icon {
+    font-size: 60px;
+}
+
+.blue-text {
+    color: #0084FD;
+}
+
+.gray-text {
+    color: #5A6E7F;
 }
 
 /* BOX */
@@ -136,6 +151,10 @@ li .h-btn {
 
 .m-40 {
     margin: 40px 0px;
+}
+
+.m-30 {
+    margin: 30px 0px;
 }
 
 .m-15 {
