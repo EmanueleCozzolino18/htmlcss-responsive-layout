@@ -91,6 +91,18 @@
         margin: 20px;
     }
 
+    .s-end {
+        align-self: flex-end;
+    }
+
+    .app-d {
+        width: 40%;
+    }
+
+    #planning .base-box {
+        height: 450px;
+    }
+
     /* BENEFITS SECTION */
 
     #benefits .col {

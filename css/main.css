@@ -33,7 +33,8 @@
 /* JUMBO SECTION */
 
 .col-spe {
-    width: calc(100% / 3 * 2);
+    margin: 10px;
+    width: calc(100% / 3 * 2 - 20px);
 }
 
 #jumbo {
@@ -41,10 +42,6 @@
 }
 
 #jumbo .col {
-    margin-bottom: 25px;
-}
-
-#jumbo .col-spe {
     margin-bottom: 25px;
 }
 

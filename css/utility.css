@@ -53,6 +53,10 @@
     width: 80%;
 }
 
+.full-img {
+    width: 100%;
+}
+
 /* CLASSI TEXT */
 
 .main-text {
@@ -114,6 +118,10 @@ li .h-btn {
     color: #5A6E7F;
 }
 
+.italic {
+    font-style: italic;
+}
+
 /* BOX */
 
 .direction {
@@ -159,4 +167,16 @@ li .h-btn {
 
 .m-15 {
     margin: 15px 0px;
+}
+
+.p-10 {
+    padding: 0px 10px;
+}
+
+.p-20 {
+    padding: 20px 20px;
+}
+
+.circle {
+    border-radius: 100%;
 }
