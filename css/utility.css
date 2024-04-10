@@ -57,6 +57,40 @@
     width: 100%;
 }
 
+.testimonial-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 30px auto;
+    background-image: url("../img/testimonial1.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.testimonial-img2 {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 30px auto;
+    background-image: url("../img/testimonial2.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.testimonial-img3 {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 30px auto;
+    background-image: url("../img/testimonial3.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+
 /* CLASSI TEXT */
 
 .main-text {
@@ -65,6 +99,10 @@
 
 .w-txt {
     color: white;
+}
+
+.lilla-text {
+    color: #9792E4;
 }
 
 .h-menu {
@@ -178,5 +216,5 @@ li .h-btn {
 }
 
 .circle {
-    border-radius: 100%;
+    border-radius: 50%;
 }

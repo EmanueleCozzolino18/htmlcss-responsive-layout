@@ -32,12 +32,38 @@
         width: 210px;
     }
 
+
     /* BENEFITS SECTION */
 
     #benefits .col {
         margin: 10px;
         width: calc(100% / 2 - 20px);
     }
+
+    /* PARTNER */
+
+    #partner .col .p-col {
+        width: 20%;
+        margin: 20px;
+    }
+
+    #partner .col .t-p-col {
+        width: 68%;
+        margin: 20px;
+    }
+
+    .testimonial-img {
+        margin: 0;
+    }
+
+    .testimonial-img2 {
+        margin: 0;
+    }
+
+    .testimonial-img3 {
+        margin: 0;
+    }
+
 
     /* ABOUT SECTION */
 
@@ -100,7 +126,22 @@
     }
 
     #planning .base-box {
-        height: 450px;
+        height: 100%;
+    }
+
+    /* PARTNER */
+
+    #partner .col {
+        width: 90%;
+        margin: 20px auto;
+    }
+
+    #partner .col .p-col {
+        width: 20%;
+    }
+
+    #partner .col .t-p-col {
+        width: 70%;
     }
 
     /* BENEFITS SECTION */
