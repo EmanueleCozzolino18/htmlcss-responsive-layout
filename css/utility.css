@@ -183,7 +183,6 @@ li .h-btn {
 }
 
 .h-btn {
-    background-color: #fff;
     padding: 15px 15px;
 }
 
@@ -217,4 +216,8 @@ li .h-btn {
 
 .circle {
     border-radius: 50%;
+}
+
+.l-btn {
+    width: 30%;
 }
