@@ -49,6 +49,11 @@
     background-color: #333333;
 }
 
+.img-f {
+    width: 100%;
+    height: auto;
+}
+
 /* CLASSI TEXT */
 
 .main-text {
@@ -61,6 +66,14 @@
 
 .h-menu {
     font-size: 25px;
+}
+
+.fs-20 {
+    font-size: 20px;
+}
+
+.bold {
+    font-weight: bold;
 }
 
 .head-list li {
@@ -76,6 +89,14 @@ a {
 
 li .h-btn {
     color: black;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-left {
+    text-align: left;
 }
 
 /* BOX */
@@ -105,6 +126,18 @@ li .h-btn {
     padding: 15px 15px;
 }
 
+.b-btn {
+    padding: 15px 45px;
+}
+
 .bradius-30 {
     border-radius: 30px;
+}
+
+.m-40 {
+    margin: 40px 0px;
+}
+
+.m-15 {
+    margin: 15px 0px;
 }

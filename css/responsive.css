@@ -2,10 +2,6 @@
 @media screen and (min-width:768px) {
 
     /* JUMBOTRON*/
-    .bg-transparent {
-        background-color: rgba(206, 10, 255, 0.5);
-    }
-
     .col-spe {
         margin: 10px;
         width: calc(100% / 3 * 2 - 20px);
@@ -14,6 +10,10 @@
     #jumbo .col {
         margin: 10px;
         width: calc(100% / 3 - 20px);
+    }
+
+    .img-phone {
+        transform: translate(2px, 30px);
     }
 
     /* BENEFITS SECTION */

@@ -53,6 +53,15 @@
     width: 100%;
 }
 
+.card {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.img-phone {
+    transform: translate(2px, 30px);
+}
+
 /* PLANNING SECTION */
 
 #planning .col {
